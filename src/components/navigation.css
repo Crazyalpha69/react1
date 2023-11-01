@@ -1,0 +1,22 @@
+.but{
+    background: linear-gradient(to bottom,#00A3E3 ,#9FCD10 );
+    align-self: center;
+}
+.textcolor{
+   /* :  */
+   background:linear-gradient(to bottom,#00A3E3 ,#9FCD10 );;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.but1{
+color:linear-gradient(to bottom,#00A3E3 ,#9FCD10 );}
+.cus{
+  width: 50%;
+  height: 50%;
+  background-color: #00A3E3;
+}
+.cus2{
+  width: 50%;
+  height: 50%;
+  background-color: red;
+}
